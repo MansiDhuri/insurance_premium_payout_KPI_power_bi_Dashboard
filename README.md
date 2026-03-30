@@ -89,6 +89,16 @@ The dataset covers the entire insurance lifecycle (2015–2025) and includes:
 
 ## 📷 Dashboard Preview
 
+![Summary](screenshots/page1_summary.png)
+
+![Insurance Overview](screenshots/page2_Insurance_Overview.png)
+
+![Investment Value](screenshots/page3_investmentValue_maturityValue.png)
+
+![Annual Premium](screenshots/page4_annualpremium_protectationvalue.png)
+
+![Premium Analysis](screenshots/page5_premiumanalysis.png)
+
 ## 📌 Conclusion
 
 This dashboard provides a 360-degree view of insurance operations, helping businesses make data-driven decisions, improve customer experience, and optimize policy performance.

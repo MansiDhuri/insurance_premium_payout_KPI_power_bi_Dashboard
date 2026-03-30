@@ -29,6 +29,7 @@ Technology-driven solutions
 The dataset covers the entire insurance lifecycle (2015–2025) and includes:
 
 👤 Customer Details
+
 Customer ID, Name
 Gender, Age (Entry & Current)
 Occupation
@@ -37,6 +38,7 @@ Medical Requirement
 Nationality & State
 
 📄 Policy Information
+
 Policy Number & Status
 Start Date & Last Paid Date
 Tenure (Years)
@@ -46,32 +48,47 @@ Maturity Amount & Surrender Value
 Loan Eligibility
 
 🧾 Policy Classification
+
 Policy Type (Term, Whole Life, ULIP)
 Policy Name & Codes
 
 🧑‍💼 Sales Agent Details
+
 Agent Code & Name
 Operating State
 
 📊 Key KPIs
 
 💰 Total Premium Amount
+
 📈 Total Annual Premium
+
 📊 Number of Policies
+
 💵 Total Premium Paid
+
 💳 Total Premium Payable
+
 📉 ROI (%)
+
 📈 CAGR (%)
+
 💹 Profit / Gain
 
 📌 Key Features of Dashboard
 
 📍 State-wise performance analysis
+
 👥 Customer segmentation insights
+
 📊 Policy performance tracking
+
 📅 Maturity forecasting (5, 10, 15, 20 years)
+
 📉 Premium paid vs payable comparison
+
 🔍 Dynamic filtering using flags
+
 
 🛠️ Tools & Technologies
 

@@ -28,7 +28,7 @@ Affordable premiums
 
 The dataset covers the entire insurance lifecycle (2015–2025) and includes:
 
-# 👤 Customer Details
+### 👤 Customer Details
 
 - Customer ID
 - Name
@@ -39,7 +39,7 @@ The dataset covers the entire insurance lifecycle (2015–2025) and includes:
 - Medical Requirement
 - Nationality & State
 
-# 📄 Policy Information
+### 📄 Policy Information
 
 - Policy Number & Status
 - Start Date & Last Paid Date
@@ -49,17 +49,17 @@ The dataset covers the entire insurance lifecycle (2015–2025) and includes:
 - Maturity Amount & Surrender Value
 - Loan Eligibility
 
-# 🧾 Policy Classification
+### 🧾 Policy Classification
 
 - Policy Type (Term, Whole Life, ULIP)
 - Policy Name & Codes
 
-# 🧑‍💼 Sales Agent Details
+### 🧑‍💼 Sales Agent Details
 
 - Agent Code & Name
 - Operating State
 
-## 📊 Key KPIs
+### 📊 Key KPIs
 
 - 💰 Total Premium Amount
 - 📈 Total Annual Premium

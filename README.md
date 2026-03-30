@@ -1,4 +1,4 @@
-## 📊 Insurance Premium & Payout KPI Dashboard
+# 📊 Insurance Premium & Payout KPI Dashboard
 
 ## 📌 Project Overview
 
@@ -30,8 +30,10 @@ The dataset covers the entire insurance lifecycle (2015–2025) and includes:
 
 # 👤 Customer Details
 
-- Customer ID, Name
-- Gender, Age (Entry & Current)
+- Customer ID
+- Name
+- Gender
+- Age
 - Occupation
 - Smoker Status
 - Medical Requirement
